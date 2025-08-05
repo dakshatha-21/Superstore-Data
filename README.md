@@ -1,4 +1,5 @@
-Project Overview
+**Project Overview**
+
 This project is focused on data visualization and storytelling using the Superstore dataset. The goal is to create a dashboard in Power BI that highlights key business metrics such as sales, profit, and orders, and provides actionable insights into performance across categories, regions, and shipping modes.
 
 Dataset
